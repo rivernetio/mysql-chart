@@ -1,0 +1,13 @@
+name: mysql
+version: 5.7.20
+description: MySQL is a fast, reliable, scalable, and easy to use open-source relational database system. MySQL Server is intended for mission-critical, heavy-load production systems as well as for embedding into mass-deployed software.
+keywords:
+- mysql
+- database
+- sql
+home: https://mysql.com
+sources:
+- https://github.com/rivernetio/mysql-chart
+maintainers:
+- name: skycloud
+engine: gotpl
